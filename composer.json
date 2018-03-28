@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "source": {
                 "type": "git",
-                "url": "https://github.com/IuriiP/phpunit-multibase.git"
+                "url": "https://github.com/IuriiP/phpunit-multibase.git",
+                "reference": "master"
         },
         "description": "IuriiP PHPUnit Multibase",
         "type": "library",
